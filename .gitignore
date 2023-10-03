@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#.txt로 끝나는 파일은 공유에서 제외하겟다
+*.txt
+
+# 폴더에 있는 내용은 공유하지 않겟다
+gittest/
