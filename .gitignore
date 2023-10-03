@@ -132,6 +132,6 @@ dist
 #.txt로 끝나는 파일은 공유에서 제외하겟다
 *.txt
 
-# 폴더에 있는 내용은 공유하지 않겟다.
+# 폴더에 있는 내용은 공유하지 않겠다는 내용
 gittest/
 scripts/forecast.js
